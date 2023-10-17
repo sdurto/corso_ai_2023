@@ -8,8 +8,8 @@ necessarie per tenersi al passo con gli sviluppi tecnologici e a valutare
 l’integrazione dell’IA nel curriculum educativo.
 
 Saranno illustrate le origini dell’IA e i principali risultati finora 
-raggiunti, saranno trattate le principali tecniche impiegate, come il Machine 
-Learning, le reti neurali artificiali e gli algoritmi genetici. 
+raggiunti, saranno trattate le principali tecniche impiegate, come il *Machine 
+Learning*, le reti neurali artificiali e gli algoritmi genetici. 
 
 Quando possibile, la trattazione teorica sarà ridotta all’essenziale 
 privilegiando la sperimentazione laboratoriale. Saranno descritte le 
