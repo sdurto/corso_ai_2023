@@ -1,3 +1,3 @@
 # README
 
-- [Abstract](abstract.md)
+Segui il file `index.md`.
