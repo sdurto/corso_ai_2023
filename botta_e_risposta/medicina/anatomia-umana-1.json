@@ -1,0 +1,73 @@
+{
+    "bibliografia": [
+        {
+            "autori": ["S. Standrin"],
+            "titolo": "Anatomia del Gray",
+            "editore": "Edra"
+        },
+        {
+            "autori": ["G. Anastasi"],
+            "titolo": "Trattato di Anatomia Umana",
+            "editore": "Edi-Ermes"
+        },
+        {
+            "autori": ["F. H. Netter"],
+            "titolo": "Atlante di Anatomia Umana",
+            "editore": "Edra"
+        },
+        {
+            "autori": ["Prometheus"],
+            "titolo": "Atlante di Anatomia",
+            "edizione": "2",
+            "editore": "EdiSes"
+        },
+        {
+            "autori": [],
+            "titolo": "Istituzioni di Anatomia dell'Uomo",
+            "edizione": "12",
+            "editore": "Piccin"
+        },
+        {
+            "autori": ["G. Anastasi", "C. Tacchetti"],
+            "titolo": "Atlante Anatomia Umana",
+            "edizione": "1",
+            "editore": "Edi-Ermes"
+        },
+        {
+            "autori": ["K. L. Moore", "A. D. Dolley"],
+            "titolo": "Anatomia Umana con riferimenti clinici",
+            "editore": "Ambrosiana"
+        },
+        {
+            "autori": "G. Familiari",
+            "titolo": "Anatomia Microscopica",
+            "editore": "Piccin"
+        }
+    ],
+    "obiettivi": [
+        "Il corso si propone di fornire allo studente le competenze necessarie per comprendere e conoscere la relazione, la conformazione e l’organizzazione delle strutture anatomiche del corpo umano, con particolare riguardo al sistema scheletrico e agli organi del collo e del torace, e per applicare le conoscenze acquisite al riconoscimento delle strutture anatomiche nelle immagini radiologiche. Tali competenze sono necessarie per poter pienamente apprendere gli argomenti dei successivi studi sulla fisiopatologia degli organi e potere comprendere i contenuti degli insegnamenti delle discipline cliniche e chirurgiche.",
+        "Conoscenza e capacità di comprensione - (Dublino 1) Alla fine del corso lo studente deve dimostrare di avere acquisito le competenze per comprendere e conoscere l’organizzazione topografica, macroscopica e microscopica delle strutture anatomiche del corpo umano, di sapere applicare le conoscenze acquisite al riconoscimento delle strutture anatomiche nelle immagini radiologiche e di avere compreso come lo studio dell’anatomia rappresenti il prerequisito indispensabile per capire i meccanismi fisiopatologici delle strutture del corpo umano.",
+        "Conoscenza e capacità di comprensione applicate – (Dublino 2) Alla fine del corso lo studente deve essere in grado di applicare le conoscenze acquisite sull’organizzazione morfologica e funzionale delle strutture anatomiche per riconoscere eventuali alterazioni connesse ai meccanismi funzionali delle strutture del corpo umano.",
+        "Autonomia di giudizio - (Dublino 3) Alla fine del corso lo studente deve sapere integrare le conoscenze e le competenze apprese per riconoscere le differenze tra strutture anatomiche fisiologiche e non fisiologiche.",
+        "Abilità comunicative – (Dublino 4) Alla fine del corso lo studente dovrà essere in grado di identificare e descrivere le strutture anatomiche utilizzando la terminologia corretta e di sapersi esprimere in modo chiaro e senza ambiguità con interlocutori specialisti e non specialisti.",
+        "Capacità di apprendere – (Dublino 5) Alla fine del corso lo studente dovrà essere in grado di autovalutare le proprie competenze, di ampliare le proprie conoscenze e di aggiornarsi attingendo autonomamente a testi, articoli scientifici e piattaforme online."
+    ],
+    "prerequisiti": [
+        "Per la piena comprensione dello studio dell’Anatomia è necessario che lo studente abbia la conoscenza delle materie scientifiche di base, in particolare deve avere già acquisito nozioni di Biologia e deve frequentare le lezioni dell’insegnamento di Istologia."
+    ],
+    "programma": [
+        "Livelli di organizzazione dell’organismo umano, posizione anatomica, piani di riferimento, termini di direzione, nomenclatura anatomica, regioni e cavità corporee. Proiezione degli organi di collo e torace sulla parete superficiale del tronco.",
+        "Sistema scheletrico. Classificazione e caratteristiche macroscopiche delle ossa; ossa del tronco, della testa e degli arti; articolazioni: classificazione e caratteristiche; in dettaglio anatomia macroscopica e legamenti delle articolazioni di colonna vertebrale, spalla, gomito, anca, ginocchio; anatomia per immagini dell’apparato osteoarticolare.",
+        "Sistema muscolare. Origine, inserzione, azione dei muscoli della testa e del collo, muscoli del torace, muscolo diaframma e muscoli della respirazione, muscoli degli arti superiore e inferiore. Muscoli dell’espressione facciale.",
+        "Collo: anatomia topografica, suddivisione regionale e organi contenuti, fasce cervicali, logge. Parete toracica: organizzazione generale.",
+        "Mediastino: definizione, limiti e suddivisione.",
+        "Apparato cardiovascolare. Cuore: topografia, rapporti, morfologia esterna ed interna, anatomia microscopica, scheletro fibroso, organizzazione del miocardio atriale e ventricolare, sistema di conduzione; vascolarizzazione nutritizia, arterie e vene coronarie, vasi polmonari; plesso cardiaco; organogenesi; anatomia per immagini. Circolazione sistemica e circolazione polmonare. Circolazione fetale.",
+        "Vasi sanguigni: caratteri generali e anatomia microscopica dei vasi arteriosi e venosi; principali circoli anastomotici arteriosi e venosi della testa, del collo, del torace e degli arti superiori. Origine, decorso, territorio di vascolarizzazione, rapporti dell’aorta e delle sue diramazioni; rami dell’aorta ascendente, dell’arco aortico e dell’aorta toracica con rami terminali e collaterali. Vasi venosi principali della testa, del collo e del torace. Vascolarizzazione arteriosa e venosa degli arti superiori e inferiori. Anatomia radiologica dell’aorta e dei vasi principali di testa, collo, tronco, arti.",
+        "Sistema linfatico, generalità, organizzazione; vasi linfatici; timo, conformazione esterna, struttura, rapporti; linfonodi; stazioni linfonodali e reti linfatiche principali della testa, del collo e del torace; anello linfatico di Waldeyer.",
+        "Membrane sierose: pericardio, pleura.",
+        "Apparato respiratorio. Conformazione esterna ed interna, struttura, anatomia microscopica, rapporti di cavità nasali, seni paranasali, laringe, trachea, bronchi, polmoni; segmenti polmonari;",
+        "vascolarizzazione nutritizia e funzionale, innervazione, drenaggio linfatico; anatomia per immagini di bronchi e polmoni.",
+        "Apparato digerente. Conformazione esterna ed interna, struttura, anatomia microscopica, rapporti di cavità orale, lingua, palato, ghiandole salivari maggiori e minori, faringe, esofago; vascolarizzazione, innervazione, drenaggio linfatico.",
+        "Mammella."
+    ]
+}

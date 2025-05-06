@@ -1,0 +1,23 @@
+# Mastery Learning: capire i suoi scopi e la sua implementazione
+
+## Cos'è il Mastery Learning?
+
+Il Mastery Learning, una metodologia didattica ampiamente adottata nelle scuole moderne e applicata estensivamente nell'e-learning e nell'istruzione a distanza (DaD), è stato sviluppato circa mezzo secolo fa. L'approccio mira a garantire che almeno il 90% degli studenti padroneggi una specifica disciplina. Si basa sulla suddivisione dei contenuti in mini-unità e utilizza un quadro di stimolo-risposta-feedback.
+
+## Il Concetto e l'Origine del Mastery Learning
+
+Basandosi sulle teorie introdotte dal psicologo John B. Carrol, l'educatore Benjamin S. Bloom ha affinato una tecnica didattica all'inizio degli anni '70 che sarebbe poi stata denominata mastery learning. La premessa fondamentale di Bloom era che la maggior parte degli studenti può raggiungere un alto livello di competenza date le condizioni appropriate adattate alle loro esigenze individuali. Questa idea fondamentale non è nuova; è stata la base dell'istruzione tutorial nella storia. I Gesuiti, così come gli educatori rinomati Comenius e Pestalozzi, riconobbero l'importanza dell'insegnamento individualizzato. Negli anni '20, la scuola laboratorio di Morrison enfatizzò anche questo principio. Oggi, il mastery learning comprende varie strategie ma opera generalmente sulla convinzione che il 90% degli studenti possa raggiungere un alto livello di apprendimento in queste condizioni:
+
+- Istruzione sistematica
+- Suddivisione dei contenuti in mini-unità gestibili
+- Fornitura di tempo sufficiente affinché gli studenti padroneggino la disciplina
+- Supporto e assistenza per gli studenti in difficoltà
+- Stabilimento di criteri chiari di padronanza
+
+## I Benefici del Mastery Learning
+
+Le teorie di Bloom evidenziano che il progresso educativo dovrebbe essere contestualizzato all'interno di un gruppo di studenti, piuttosto che basato su uno standard universale e oggettivo. Ad esempio, mentre un voto di 6 può essere considerato mediocre se il resto della classe ha una media di 8, potrebbe essere visto come un buon voto se gli altri studenti hanno una media di 5. Supponendo che gli studenti siano normalmente distribuiti in termini di attitudine per una particolare materia, in un contesto didattico tradizionale dove la stessa istruzione e il tempo di apprendimento sono allocati a tutti gli studenti, le prestazioni rifletteranno la distribuzione iniziale delle attitudini. Molti modelli educativi tradizionali dimostrano questo esito. Tuttavia, quando la qualità dell'istruzione e il tempo di apprendimento sono adattati alle caratteristiche e ai bisogni individuali, la maggior parte della classe (circa quattro quinti) avrà un'alta probabilità di padroneggiare l'argomento. Essenzialmente, l'obiettivo è minimizzare la correlazione tra attitudine iniziale e risultato finale. Le strategie di mastery learning si sforzano di raggiungere questo obiettivo.
+
+## Strategie Utilizzate nel Mastery Learning
+
+Per implementare efficacemente il mastery learning, è cruciale definire il concetto di "padronanza" all'interno del quadro di valutazione. Questo richiede la suddivisione dei contenuti in piccole unità per abilitare valutazioni progressive alla fine di ogni mini-corso. Queste valutazioni sono accompagnate da feedback sotto forma di compiti a casa, domande e quaderni di lavoro. Gli studenti che incontrano difficoltà durante questi checkpoint ricevono un feedback correttivo e assistenza per superare gli ostacoli. Piuttosto che permettere agli studenti di rimanere indietro nel loro apprendimento, vengono adottate strategie di insegnamento personalizzate per aiutarli a riuscire nelle aree in cui inizialmente hanno avuto difficoltà. In questi casi, il ruolo dell'insegnante è trovare rimedi efficaci e dimostrare sufficiente creatività nell'adottare strategie che giovino agli studenti in difficoltà.

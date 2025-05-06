@@ -1,0 +1,59 @@
+The Importance of “Mastery Learning”
+Alec Kretch
+Alec Kretch is the founder of OpenClass — easily build mastery-based review assignments around your content for free at OpenClass.ai.
+
+
+Photo by William Iven on Unsplash
+The modern education system lacks efficiency.
+
+We spend the first quarter of our lives in school. K-12. College. Grad school. We’re in training until age 18, or 22, or 30. And, what do we get out of it?
+
+For such a large investment, it seems the answer is, “not enough.”
+
+How many times have you left a lecture, only to forget the bulk of what was taught? How many times have you felt totally lost in a class because you didn’t understand an earlier concept? How many times have you questioned the relevancy of a class’s curriculum to your life?
+
+If you’re anything like me, the answer to all of the questions is, “too many.”
+
+Education is supremely important to society. What we know grants us opportunities and guides our every move. Societies that prioritize an illiterate peasant class suffer the same tragic fate of the Khmer Rouge.
+
+That’s why it’s so important to dive into why these inefficiencies exist and how we can fix them.
+
+First, the why: Why is our education system inefficient?
+
+There are a number of directions we can point our collective fingers. Is it the teacher’s fault for not getting through to their students? Is it the government’s fault for not paying teachers enough? Is it the school’s fault for misallocating their funds? Is it the parent’s fault for not enforcing better study habits to their kids? Is it the student’s fault for not staying focused?
+
+You can make your arguments for any. I blame none.
+
+Rather, I think the modern system developed naturally. You have one teacher per class, responsible for teaching n students. In private high schools, n may be 20. In large universities, n may be 400.
+
+The point is, it is inherently impossible for one person to reach the unique needs of every student in their class. Students that don’t understand a concept are often left behind. Students with unique learning styles or preferences are often left behind. Students with learning disabilities are often left behind.
+
+Teachers adapt to teach to the masses. It’s not their fault. But at some point, everyone will be left behind.
+
+I am not the first person to recognize this problem. In education spheres, this problem is referred to as the “glove” or “one-size-fits-all” problem.
+
+But the bigger problem is the lack of solutions attempting to fix it.
+
+Pressed to teach to the masses, teachers often teach to the test. That is, their main objective is to have students perform well on exams. Classes are taught at a faster pace to ensure all of the curriculum is covered.
+
+This seems so backwards. First, who cares about a test? The primary goal of a teacher should be for their students to learn. Next, why should the curriculum dictate the pace of the class? A student’s understanding of the material should dictate the pace the curriculum is taught.
+
+This model doesn’t care what skills translate outside the classroom. This model willfully leaves students behind.
+
+There is another option that prioritizes real-world skills and individualized instruction: Mastery learning.
+
+Mastery learning is such a sweet concept: Dive deep into every topic taught during a course. Until you’ve mastered it. Then move on!
+
+All students learn at a unique pace. Teaching at a uniform pace yields uniform results. A student that “gets it” should be able to move on quicker, and a student that struggles should be granted the instruction to catch up.
+
+Education should be personalized. Tailored to each student. Prioritizing mastery over marks.
+
+But the reason it’s not is the same as why teaching to the test developed: logistics. One teacher can’t personalize their class for 40 unique students.
+
+This was true for all of human history, and to a large extent, is still true today. But unique to modern times, we have the technology to begin to change that.
+
+Artificial intelligence has the potential to bring a momentous improvement to education. The term itself often scares educators. Will AI replace me? Will I be forced to teach with confusing AI? But, as a supplement to their teachings, it can serve as an individual tutor for students to learn concepts at an optimal speed and personalized delivery.
+
+To level the playing field for all students to succeed.
+
+This is the focus of my research and development for OpenClass.

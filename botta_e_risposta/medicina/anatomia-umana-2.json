@@ -1,0 +1,88 @@
+{
+    "bibliografia": [
+        {
+            "autori": ["S. STANDRING"],
+            "titolo": "Anatomia del Gray",
+            "editore": "Edra"
+        },
+        {
+            "autori": ["G. ANASTASI et al."],
+            "titolo": "Trattato di Anatomia Umana",
+            "editore": "Edi-Ermes"
+        },
+        {
+            "autori": ["A.M. BURT"],
+            "titolo": "Trattato di Neuroanatomia",
+            "editore": "Piccin"
+        },
+        {
+            "autori": ["NOLTE"],
+            "titolo": "Anatomia del sistema nervoso centrale",
+            "editore": "Edra"
+        },
+        {
+            "autori": ["M.J.T. FITZGERALD et al."],
+            "titolo": "Neuroanatomia: con riferimenti funzionali e clinici",
+            "editore": "Edra"
+        },
+        {
+            "autori": ["F.H. NETTER"],
+            "titolo": "Atlante di Anatomia Umana",
+            "editore": "Edra"
+        },
+        {
+            "autori": ["PROMETHEUS"],
+            "titolo": "Atlante di Anatomia",
+            "edizione": "2",
+            "editore": "EdiSes"
+        },
+        {
+            "autori": ["AUTORI VARI"],
+            "titolo": "Istituzioni di Anatomia dell’uomo"
+            "edizione": "12",
+            "editore": "Piccin"
+        },
+        {
+            "autori": ["G.ANASTASI", "C.TACCHETTI"],
+            "titolo": "Atlante Anatomia Umana",
+            "edizione": "1",
+            "editore": "Edi-Ermes"
+        },
+        {
+            "autori": ["K.L. MOORE", "A.D. DOLLEY"],
+            "titolo": "Anatomia Umana con riferimenti clinici",
+            "editore": "Ambrosiana"
+        },
+        {
+            "autori": ["G. FAMILIARI"],
+            "titolo": "Anatomia Microscopica",
+            "editore": "Piccin"
+        }
+    ],
+    "obiettivi": [
+        "Il corso si propone di fornire allo studente le competenze necessarie per comprendere e conoscere la relazione, la conformazione e l’organizzazione delle strutture anatomiche del corpo umano e per applicare le conoscenze acquisite nel riconoscimento delle strutture anatomiche nelle immagini radiologiche. In particolare, il corso di Anatomia Umana 2 è rivolto allo studio della neuroanatomia e degli organi della cavità addominopelvica completando così la conoscenza del corpo umano cominciata con il corso di Anatomia Umana 1. Tali competenze sono necessarie per acquisire una visione completa dell’organizzazione del corpo umano e poter così pienamente apprendere i contenuti dei successivi studi sulla fisiopatologia degli organi e delle discipline cliniche e chirurgiche.",
+        "Conoscenza e capacità di comprensione - (Dublino 1) Alla fine del corso lo studente deve dimostrare di avere acquisito le competenze per comprendere e conoscere l’organizzazione topografica, macroscopica e microscopica delle strutture anatomiche dell’intero corpo umano, di sapere applicare le conoscenze acquisite al riconoscimento delle strutture anatomiche nelle immagini radiologiche e di avere compreso come lo studio dell’anatomia rappresenti il prerequisito indispensabile per capire i meccanismi fisiopatologici delle strutture del corpo umano.",
+        "Conoscenza e capacità di comprensione applicate – (Dublino 2) Alla fine del corso lo studente deve essere in grado di applicare le conoscenze acquisite sull’organizzazione morfologica e funzionale delle strutture anatomiche per riconoscere eventuali alterazioni connesse ai meccanismi funzionali delle strutture del corpo umano.",
+        "Autonomia di giudizio - (Dublino 3) Alla fine del corso lo studente deve sapere integrare le conoscenze e le competenze apprese per riconoscere le differenze tra strutture anatomiche fisiologiche e non fisiologiche.",
+        "Abilità comunicative – (Dublino 4) Alla fine del corso lo studente dovrà essere in grado di identificare e descrivere le strutture anatomiche utilizzando la terminologia corretta e dovrà sapersi esprimere in modo chiaro e senza ambiguità con interlocutori specialisti e non specialisti.",
+        "Capacità di apprendere – (Dublino 5) Alla fine del corso lo studente dovrà essere in grado di auto-valutare le proprie competenze, di ampliare le proprie conoscenze e di aggiornarsi attingendo autonomamente a testi, articoli scientifici e piattaforme online."
+    ],
+    "prerequisiti": [
+        "Per seguire con efficacia il corso di Anatomia Umana 2 lo studente deve avere frequentato il corso di Anatomia Umana 1 e avere già acquisito nozioni di Biologia e Istologia. Il piano degli studi del CdL in Medicina e Chirurgia prevede che vengano superati gli esami di Biologia e Istologia prima di sostenere l’esame di Anatomia Umana."
+    ],
+    "programma": [
+        "Sistema muscolare. Muscoli del tronco, in particolare i muscoli della parete addominale antero- laterale e posteriore, i muscoli del diaframma pelvico, i muscoli del perineo, il canale inguinale, la fossa ischio-rettale. Muscoli masticatori, muscoli estrinseci dell’occhio.",
+        "Sistema circolatorio. Aorta addominale con rami collaterali e terminali e loro diramazioni, principali anastomosi, vena cava inferiore e principali affluenti, vena porta e anastomosi porto-sistemiche; vascolarizzazione arteriosa e venosa dell’encefalo e del midollo spinale. Anatomia per immagini. Sistema linfatico. Dotto toracico. Linfonodi e reti linfatiche principali. Milza, conformazione esterna ed interna, struttura, anatomia microscopica, rapporti, vascolarizzazione, innervazione, drenaggio linfatico.",
+        "Apparato digerente. Conformazione esterna ed interna, struttura, anatomia microscopica, rapporti di stomaco, duodeno, digiuno, ileo, appendice, cieco, colon, retto; vascolarizzazione con principali circoli anastomotici, innervazione, drenaggio linfatico. Anatomia per immagini.",
+        "Fegato: conformazione esterna ed interna, struttura, rapporti, segmenti epatici, anatomia microscopica, vascolarizzazione, innervazione, drenaggio linfatico; cistifellea e vie biliari. Pancreas: conformazione esterna ed interna, struttura, anatomia microscopica, rapporti, vascolarizzazione, innervazione, drenaggio linfatico. Anatomia per immagini.",
+        "Apparato urinario. Conformazione esterna ed interna, struttura, rapporti di rene, uretere, vescica, uretra; organizzazione del nefrone; vascolarizzazione, innervazione, drenaggio linfatico. Anatomia per immagini.",
+        "Apparato genitale. Conformazione esterna ed interna, struttura, anatomia microscopica, rapporti di testicolo, epididimo, condotto deferente, vescichette seminali, prostata, ovaio, tube, utero, vagina, genitali esterni, mammella; vascolarizzazione, innervazione, drenaggio linfatico.",
+        "Membrane sierose. Peritoneo. Comportamento del peritoneo in rapporto ai visceri. Regione retroperitoneale, regioni sopra e sottomesocolica.",
+        "Ghiandole endocrine. Conformazione esterna ed interna, struttura, rapporti, anatomia macroscopica di ipofisi, tiroide, paratiroidi, surrene; vascolarizzazione, innervazione, drenaggio linfatico.",
+        "Sistema nervoso. Organizzazione generale. Anatomia macroscopica e organizzazione del nevrasse. Meningi, sistema ventricolare e circolazione liquorale. Struttura del midollo spinale e del tronco encefalico. Nervi spinali; plesso cervicale, plesso brachiale, plesso lombosacrale e nervi periferici con decorso, principali diramazioni e territorio di distribuzione. Sistemi sensitivi somatici e viscerali generali (via dei cordoni posteriori e sistema antero-laterale). Organizzazione e principali connessioni del talamo. Organizzazione e struttura della corteccia cerebrale, principali aree funzionali e principali fasci di connessione. Sistemi motori: tratto cortico-spinale e cortico-nucleare, tratto rubrospinale, tratto tettospinale, tratti reticolo-spinali, tratti vestibolo-spinali. Organizzazione del cervelletto e circuiti cerebellari. Nuclei della base e nuclei correlati; circuiti fondamentali (diretto ed indiretto). Ipotalamo: organizzazione e principali connessioni, relazioni con il sistema nervoso autonomo; sistema ipotalamo-ipofisario e correlazioni neuroendocrine. Sistema limbico e principali connessioni (ippocampo e amigdala).",
+        "Organizzazione del sistema nervoso autonomo (ortosimpatico e parasimpatico) nel nevrasse e nei nervi cranici e spinali.",
+        "Nervi cranici: nervo oculomotore, nervo trocleare, nervo abducente, nervo trigemino, nervo faciale, nervo glossofaringeo, nervo vago, nervo accessorio spinale, nervo ipoglosso; nuclei, principali connessioni, decorso periferico con principali diramazioni, territorio di distribuzione.",
+        "Occhio, vie ottiche e sistemi di controllo della motilità oculare. Orecchio, vie acustiche e vestibolari. Via gustativa. Mucosa olfattoria e via olfattoria.",
+        "Anatomia per immagini del sistema nervoso centrale."
+    ]
+}

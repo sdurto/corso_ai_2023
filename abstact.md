@@ -1,3 +1,23 @@
+<< [[corso_ai_2023]]
+
+[[#Intelligenza Artificiale|Italiano]]
+# Artificial Intelligence
+
+The course offers an introduction to the field of Artificial Intelligence (AI), presenting the key concepts of AI and its impact on society and the world of work, with a specific focus on youth education. It is aimed at teachers and intends to provide the tools and knowledge needed to keep up with technological developments and to evaluate how AI can be integrated into the educational curriculum.
+
+The course will cover the origins of AI and its main achievements so far. Core techniques such as machine learning, artificial neural networks, and genetic algorithms will be discussed.
+
+Whenever possible, theoretical content will be kept to a minimum in favor of hands-on, lab-based activities. Real-world applications will be explored in areas such as medicine, finance, industrial automation, transportation, and security. A selection of online AI tools and platforms will also be examined and tested during the experimental part of the course to assess their potential and limitations.
+
+One of the main goals of the course is to explore the educational implications of AI and how it can be integrated into teaching and learning. Special attention will be given to how AI can support the development of key skills such as critical thinking, problem-solving, creativity, and computational thinking among students. Ethical issues related to the use of AI in schools and in society will also be addressed, along with suggestions and guidelines for a responsible and informed use of these technologies.
+
+Finally, the course will look at future expectations in the field, presenting the views of leading experts and highlighting the wide variety of opinions on the subject.
+
+For each topic covered in the course, references and further readings will be provided to support individual exploration and deeper understanding.
+
+
+
+[[#Artificial Intelligence|Inglese]]
 # Intelligenza Artificiale
 
 Il corso introduce al campo dell'intelligenza artificiale (IA), illustrando 
