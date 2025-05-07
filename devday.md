@@ -1,16 +1,19 @@
+<< [[corso_ai_2023]]
+
 # OpenAI DevDay
 
 OpenAI’s first developer conference
 
 November 6, 2023 · San Francisco, CA
 
-https://devday.openai.com
+[devday.openai.com](https://devday.openai.com/)
 
 Video
 
-https://www.youtube.com/watch?v=U9mJuUkhUzk
+[www.youtube.com/watch?v=U9mJuUkhUzk](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 
-* 3:50 Centenarian https://www.youtube.com/watch?v=U9mJuUkhUzk&t=242s
+```
+* 3:50 Centenarian
 * 5:32 GPT-4 Turbo
   - Context length
   - More control
@@ -29,6 +32,5 @@ https://www.youtube.com/watch?v=U9mJuUkhUzk
   - GPT Store
 * 32:50 Assistant API, Romain
 * 43:00 Conclusioni
-
-
+```
 
