@@ -12,24 +12,24 @@ Slide, documentazione e materiale accessorio del corso sull'Intelligenza Artific
 
 ## Index
 
-| File                 | PDF                                          | Notes                                                                      |
-| -------------------- | -------------------------------------------- | -------------------------------------------------------------------------- |
-| [[abstract]]         | [abstract.pdf](abstract.pdf)                 | Abstract                                                                   |
-| [[README]]           | [README.pdf](README.pdf)                     | Read me                                                                    |
-| [[calendario]]       | [calendario.pdf](calendario.pdf)             | Calendario                                                                 |
-| [[slides]]           | [slides.pdf](slides.pdf)                     | Slides                                                                     |
-| [[botta_e_risposta]] | [botta_e_risposta.pdf](botta_e_risposta.pdf) | Esperimenti con chatbot                                                    |
-| [[plagiarism]]       | [plagiarism.pdf](plagiarism.pdf)             | Mastery Learning, plagiarism, traslations EN/IT                            |
-| [[prompt]]           | [prompt.pdf](prompt.pdf)                     | Esperimenti                                                                |
-| [[tests]]            | [tests.pdf](tests.pdf)                       | Preparazione di test, esperimenti generici                                 |
-| [[test-di-verifica]] | [test-di-verifica.pdf](test-di-verifica.pdf) | Semplice test di verifica                                                  |
-| [[break]]            | [break.pdf](break.pdf)                       | Break                                                                      |
-| [[test-eng]]         | [test-eng.pdf](test-eng.pdf)                 | Test di lingua inglese                                                     |
-| [[translate]]        | [translate.pdf](translate.pdf)               | Sunto e traduzione della trascrizione di un video                          |
-| [[app-notes]]        | [app-notes.pdf](app-notes.pdf)               | Appunti app di AI                                                          |
-| [[grok]]             | [grok.pdf](grok.pdf)                         | Elon Mask AI engine                                                        |
-| [[devday]]           | [devday.pdf](devday.pdf)                     | OpenAI’s first developer conference - November 6, 2023 · San Francisco, CA |
-| [[LICENSE]]          | [LICENSE.pdf](LICENSE.pdf)                   | MIT License                                                                |
+| File                                                     | PDF                                                           | Notes                                                                      |
+| -------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [abstract](abstract.md)                                  | [abstract.pdf](abstract.pdf)                                  | Abstract                                                                   |
+| [README](README.md)                                      | [README.pdf](README.pdf)                                      | Read me                                                                    |
+| [calendario](calendario.md)                              | [calendario.pdf](calendario.pdf)                              | Calendario                                                                 |
+| [slides](slides/slides.md)                               | [slides.pdf](slides/slides.pdf)                               | Slides                                                                     |
+| [botta_e_risposta](botta_e_risposta/botta_e_risposta.md) | [botta_e_risposta.pdf](botta_e_risposta/botta_e_risposta.pdf) | Esperimenti con chatbot                                                    |
+| [plagiarism](plagiarism/plagiarism.md)                   | [plagiarism.pdf](plagiarism/plagiarism.pdf)                   | Mastery Learning, plagiarism, traslations EN/IT                            |
+| [prompt](prompt.md)                                      | [prompt.pdf](prompt.pdf)                                      | Esperimenti                                                                |
+| [tests](tests/tests.md)                                  | [tests.pdf](tests/tests.pdf)                                  | Preparazione di test, esperimenti generici                                 |
+| [test-di-verifica](test-di-verifica/test-di-verifica.md) | [test-di-verifica.pdf](test-di-verifica/test-di-verifica.pdf) | Semplice test di verifica                                                  |
+| [break](break.md)                                        | [break.pdf](break.pdf)                                        | Break                                                                      |
+| [test-eng](test-eng/test-eng.md)                         | [test-eng.pdf](test-eng/test-eng.pdf)                         | Test di lingua inglese                                                     |
+| [translate](translate/translate.md)                      | [translate.pdf](translate/translate.pdf)                      | Sunto e traduzione della trascrizione di un video                          |
+| [app-notes](app-notes.md)                                | [app-notes.pdf](app-notes/app-notes.pdf)                      | Appunti app di AI                                                          |
+| [grok](grok.md)                                          | [grok.pdf](grok.pdf)                                          | Elon Mask AI engine                                                        |
+| [devday](devday.md)                                      | [devday.pdf](devday.pdf)                                      | OpenAI’s first developer conference - November 6, 2023 · San Francisco, CA |
+| [LICENSE](LICENSE.md)                                    | [LICENSE.pdf](LICENSE.pdf)                                    | MIT License                                                                |
 
 ---
 
