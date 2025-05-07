@@ -1,4 +1,4 @@
-<< [[corso_ai_2023]]
+<< [corso_ai_2023](../corso_ai_2023.md)
 
 # botta e risposta
 
@@ -17,7 +17,7 @@ File in vario formato per definire il chatbot.
 
 | File                                                                   | Format   | Notes          |
 | ---------------------------------------------------------------------- | -------- | -------------- |
-| [[math]]                                                               | Markdown |                |
+| [math](math.md)                                                        | Markdown |                |
 | math.json                                                              | JSON     |                |
 | math_k6.json                                                           | JSON     |                |
 | medicina/anatomia-umana-1.json                                         | JSON     | Cattolica p. 1 |

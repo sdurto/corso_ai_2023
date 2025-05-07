@@ -1,4 +1,4 @@
-<< [[corso_ai_2023]]
+<< [corso_ai_2023](corso_ai_2023.md)
 
 # OpenAI DevDay
 

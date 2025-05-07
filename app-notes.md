@@ -1,8 +1,4 @@
----
-created: 2023-10-02T22:34:48+02:00
-modified: 2023-10-02T22:34:48+02:00
----
-<< [[corso_ai_2023]]
+<< [corso_ai_2023](corso_ai_2023.md)
 
 # appunti
 

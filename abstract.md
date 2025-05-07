@@ -1,6 +1,5 @@
-<< [[corso_ai_2023]]
+<< [corso_ai_2023](corso_ai_2023.md)
 
-[[#Intelligenza Artificiale|Italiano]]
 # Artificial Intelligence
 
 The course offers an introduction to the field of Artificial Intelligence (AI), presenting the key concepts of AI and its impact on society and the world of work, with a specific focus on youth education. It is aimed at teachers and intends to provide the tools and knowledge needed to keep up with technological developments and to evaluate how AI can be integrated into the educational curriculum.
@@ -17,7 +16,6 @@ For each topic covered in the course, references and further readings will be pr
 
 
 
-[[#Artificial Intelligence|Inglese]]
 # Intelligenza Artificiale
 
 Il corso introduce al campo dell'intelligenza artificiale (IA), illustrando 
